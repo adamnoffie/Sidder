@@ -1,5 +1,10 @@
+# Sidder adamnoffie
+
+Below is the original README text provided by Arjan.  This fork was updated from .NET Framework 4.5 to 4.8, which is supported. Also providng release binaries 
+here: https://github.com/adamnoffie/Sidder/releases
+
 # Sidder
-Sidder is a little tool built for the .net 4.5 Framework, which means it runs as a standalone executable on Windows 2012 and Windows 2012R2.
+Sidder is a little tool built for the .net 4.8 Framework, which means it runs as a standalone executable on Windows Server
 
 Working in environments with lots of users and lots of User Profile Disks this tool will help you to quickly identify which User Profile Disk belongs to which Domain User.
 

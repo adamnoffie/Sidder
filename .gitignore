@@ -1,2 +1,4 @@
 .vs/
 Testfiles/
+bin/
+obj/
