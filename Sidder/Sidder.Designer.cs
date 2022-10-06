@@ -99,7 +99,7 @@
             this.linkLabel.Size = new System.Drawing.Size(149, 12);
             this.linkLabel.TabIndex = 4;
             this.linkLabel.TabStop = true;
-            this.linkLabel.Text = "2015-2020 Arjan Mensch - msfreaks";
+            this.linkLabel.Text = "2015-2023 Arjan Mensch - msfreaks";
             this.linkLabel.TextAlign = System.Drawing.ContentAlignment.TopRight;
             this.toolTip.SetToolTip(this.linkLabel, "About");
             this.linkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel_LinkClicked);
